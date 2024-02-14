@@ -1,6 +1,8 @@
-![Profile Banner](https://user-images.githubusercontent.com/51427024/210053279-8a1942bf-b60d-4664-8416-2cb6a402afbc.png)
+Hi, welcome to my public profile :)
+<br>
+<br>
 ___
-## My core languages  
+### My core languages are 
 ![TypeScript Badge](https://img.shields.io/twitter/url?color=black&label=TypeScript&logo=TypeScript&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fscott-dang)
 ![Go Badge](https://img.shields.io/twitter/url?color=black&label=Golang&logo=Go&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fscott-dang)
 ![Python Badge](https://img.shields.io/twitter/url?color=black&label=Python&logo=python&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fscott-dang)
